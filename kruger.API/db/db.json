@@ -1,0 +1,92 @@
+{
+  "employess": [
+    {
+      "cedula": "1728394059",
+      "nombres": "Juan Rodriguez",
+      "apellidos": "Rodriguez Mera",
+      "email": "jrodriguez@test.com",
+      "password": "jrodriguez12@",
+      "fechaNacimiento": [
+        "10/15/1990"
+      ],
+      "direccion": "Av. Siempre Viva 123",
+      "telefono": "0987654321",
+      "rol": "administrador",
+      "estado": true,
+      "vacunas": {
+        "tipo": "Sputnik",
+        "fechaVacunacion": [
+          "1992/08/10"
+        ],
+        "numeroDosis": 3
+      },
+      "id": 1
+    },
+    {
+      "cedula": "1728394359",
+      "nombres": "Felipe Andres",
+      "apellidos": "Andrade Carapaz",
+      "email": "fandrade@test.com",
+      "password": "fandrade12@",
+      "fechaNacimiento": [
+        "12/05/1995"
+      ],
+      "direccion": "Av. Siempre Viva 123",
+      "telefono": "0923456781",
+      "rol": "empleado",
+      "estado": true,
+      "vacunas": {
+        "tipo": "Pfizer",
+        "fechaVacunacion": [
+          "8/13/2022"
+        ],
+        "numeroDosis": "2"
+      },
+      "id": 2
+    },
+    {
+      "cedula": "1782939459",
+      "nombres": "Ben",
+      "apellidos": "Davies",
+      "email": "bdavies@test.com",
+      "password": "bdavies37@",
+      "fechaNacimiento": [
+        "8/17/1994"
+      ],
+      "direccion": "Av. Siempre Viva 23",
+      "telefono": "09178263546",
+      "rol": "empleado",
+      "estado": false,
+      "vacunas": {
+        "tipo": "AstraZeneca",
+        "fechaVacunacion": [
+          "8/3/2022"
+        ],
+        "numeroDosis": "5"
+      },
+      "id": 3
+    },
+    {
+      "cedula": "0809295841",
+      "nombres": "Karim",
+      "apellidos": "Benzema",
+      "email": "kbenzema@test.com",
+      "password": "kbenzema2@",
+      "fechaNacimiento": [
+        "8/10/1988"
+      ],
+      "direccion": "Av Siempre viva 123",
+      "telefono": "0987654321",
+      "rol": "empleado",
+      "estado": true,
+      "vacunas": {
+        "tipo": "Pfizer",
+        "fechaVacunacion": [
+          "8/12/2022"
+        ],
+        "numeroDosis": "3"
+      },
+      "id": 4
+    }
+  ]
+}
